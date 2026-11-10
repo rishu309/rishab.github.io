@@ -1,0 +1,19 @@
+header {
+	background: #B0B0B0;
+	padding:20px;
+	border-bottom:20px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #666666;
+}
+
+/**** YOUR CODE STARTS HERE ****/
+
+.swatch {
+  width: 200px;
+  height: 200px;
+  padding : 10px;
+  margin: 20px;
+  border: 2px solid #000000;
+  color:#FFFFFF; /**** text color not bg color****/
+  display: inline-block;
+}
